@@ -1,4 +1,7 @@
 {
     "C_Cpp.errorSquiggles": "disabled",
-    "terminal.integrated.detectLocale": "on"
+    "terminal.integrated.detectLocale": "on",
+    "files.associations": {
+        "numero_par.C": "cpp"
+    }
 }
