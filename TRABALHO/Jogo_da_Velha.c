@@ -1,3 +1,8 @@
+// IESB Campus Sul
+// Trabalho da disciplina de APC-01
+// Autor: Bruno Washington Gomes Belizário
+// Curso: Ciência da Computação [NOT]
+
 #include <stdio.h>
 #include <stdlib.h>
 #define BLK "\e[0;30m"
